@@ -10,6 +10,7 @@ As the cybersecurity consultant, I developed HIPAA-compliant policies, a risk re
 - Access Control Policy (HIPAA-aligned)
 - - [Access Control Policy (HIPAA-aligned)](./policies/access-control-policy.md)
 - Vendor Security Checklist
+- - [Vendor Security Checklist](./policies/vendor-security-checklist.md)
 - Ransomware Incident Response Plan
 - Executive Summary for Clinic Leadership
 
