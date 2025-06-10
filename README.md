@@ -8,6 +8,7 @@ As the cybersecurity consultant, I developed HIPAA-compliant policies, a risk re
 - Risk Register (Excel)
 - HIPAA Privacy & Security Rule Compliance Matrix
 - Access Control Policy (HIPAA-aligned)
+- - [Access Control Policy (HIPAA-aligned)](./policies/access-control-policy.md)
 - Vendor Security Checklist
 - Ransomware Incident Response Plan
 - Executive Summary for Clinic Leadership
@@ -25,3 +26,4 @@ This project demonstrates my ability to perform:
 - Realistic healthcare risk assessments
 - Security policy documentation under HIPAA
 - Risk prioritization and vendor management
+
