@@ -1,0 +1,14 @@
+crescent-family-clinic-cybersecurity
+│
+├── README.md
+├── assets/
+│   └── network-diagram.png
+├── policies/
+│   ├── access-control-policy.md
+│   ├── vendor-security-checklist.md
+│   ├── ransomware-response-plan.md
+│   └── hipaa-privacy-compliance-matrix.md
+├── risk-register/
+│   └── crescent-risk-register.xlsx
+└── executive-summary/
+    └── crescent-risk-assessment-summary.pdf
