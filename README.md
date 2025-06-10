@@ -6,6 +6,7 @@ As the cybersecurity consultant, I developed HIPAA-compliant policies, a risk re
 
 ## 🧾 Deliverables
 - Risk Register (Excel)
+- - [Cybersecurity Risk Register](./risk-register/risk-register.md)
 - HIPAA Privacy & Security Rule Compliance Matrix
 - - [HIPAA Privacy & Security Rule Compliance Matrix](./hipaa-matrix/hipaa-compliance-matrix.md)
 - Access Control Policy (HIPAA-aligned)
