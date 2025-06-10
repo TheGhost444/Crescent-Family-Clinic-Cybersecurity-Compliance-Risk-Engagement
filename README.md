@@ -13,6 +13,7 @@ As the cybersecurity consultant, I developed HIPAA-compliant policies, a risk re
 - Vendor Security Checklist
 - - [Vendor Security Checklist](./policies/vendor-security-checklist.md)
 - Ransomware Incident Response Plan
+- [Ransomware Response Plan](./incident-response/ransomware-response-plan.md)
 - Executive Summary for Clinic Leadership
 
 ## 🔧 Tools & Frameworks
