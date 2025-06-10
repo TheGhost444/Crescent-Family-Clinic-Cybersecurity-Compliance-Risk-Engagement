@@ -19,6 +19,8 @@ As the cybersecurity consultant, I developed HIPAA-compliant policies, a risk re
   - [SIEM Alert Dashboard Mockup](./siem/siem-dashboard-mockup.md)
 - Google Workspace Security Audit Template
   - - [Google Workspace Security Audit Template](./audit/google-workspace-security-audit.md)
+- MITRE ATT&CK Threat Mapping
+    - - [MITRE ATT&CK Threat Mapping](./threat-mapping/mitre-attack-matrix.md)
 - Executive Summary for Clinic Leadership
 - - [Executive Summary](./executive-summary/executive-summary.md)
 
