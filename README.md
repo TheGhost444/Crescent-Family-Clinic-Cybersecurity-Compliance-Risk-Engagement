@@ -15,6 +15,8 @@ As the cybersecurity consultant, I developed HIPAA-compliant policies, a risk re
 - - [Vendor Security Checklist](./policies/vendor-security-checklist.md)
 - Ransomware Incident Response Plan
 - [Ransomware Response Plan](./incident-response/ransomware-response-plan.md)
+- SIEM Alert Dashboard Mockup
+  - - - [SIEM Alert Dashboard Mockup](./siem/siem-dashboard-mockup.md)
 - Executive Summary for Clinic Leadership
 
 ## 🔧 Tools & Frameworks
