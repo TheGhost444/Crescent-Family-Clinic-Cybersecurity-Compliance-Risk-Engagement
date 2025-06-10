@@ -20,6 +20,7 @@ As the cybersecurity consultant, I developed HIPAA-compliant policies, a risk re
 - Google Workspace Security Audit Template
   - - [Google Workspace Security Audit Template](./audit/google-workspace-security-audit.md)
 - Executive Summary for Clinic Leadership
+- - [Executive Summary](./executive-summary/executive-summary.md)
 
 ## 🔧 Tools & Frameworks
 - NIST SP 800-66 (HIPAA mapping)
