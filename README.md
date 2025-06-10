@@ -16,7 +16,9 @@ As the cybersecurity consultant, I developed HIPAA-compliant policies, a risk re
 - Ransomware Incident Response Plan
 - [Ransomware Response Plan](./incident-response/ransomware-response-plan.md)
 - SIEM Alert Dashboard Mockup
-  - - - [SIEM Alert Dashboard Mockup](./siem/siem-dashboard-mockup.md)
+  - [SIEM Alert Dashboard Mockup](./siem/siem-dashboard-mockup.md)
+- Google Workspace Security Audit Template
+  - - [Google Workspace Security Audit Template](./audit/google-workspace-security-audit.md)
 - Executive Summary for Clinic Leadership
 
 ## 🔧 Tools & Frameworks
